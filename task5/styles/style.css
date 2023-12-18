@@ -1,1 +1,36 @@
-/*# sourceMappingURL=style.css.map */
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.container-1 {
+  height: 300px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  gap: 10px;
+}
+
+.text {
+  color: blue;
+}
+
+.text-2 {
+  width: 400px;
+  text-align: center;
+}
+
+.sekil {
+  background-color: red;
+  padding: 20px;
+}
+
+.text-3 {
+  width: 270px;
+}
+
+.conatiner-2 {
+  display: flex;
+}/*# sourceMappingURL=style.css.map */
