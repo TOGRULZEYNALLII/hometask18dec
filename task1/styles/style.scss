@@ -1,0 +1,45 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+//esas container
+#main {
+  display: flex;
+  gap: 30px;
+}
+.container {
+  padding-left: 195px;
+  padding-top: 220px;
+  width: 500px;
+}
+.h1 {
+  margin-bottom: 36px;
+}
+.p {
+  padding-bottom: 36px;
+}
+.button {
+  height: 40px;
+  width: 150px;
+  background-color: blue;
+  color: white;
+  border-radius: 5px;
+  box-shadow: none;
+  cursor: pointer;
+  font-weight: 700;
+}
+///qiz sekili////
+.conatiner-2 {
+  padding-top: 80px;
+}
+//sag teref///////////
+.container-3 {
+  padding-top: 200px;
+}
+.birinci {
+  margin-bottom: 50px;
+}
+.ikinci {
+  margin-bottom: 50px;
+}
