@@ -42,3 +42,30 @@
   height: 50px;
   text-align: center;
 }
+@media screen and (max-width: 800px) {
+  #main {
+    display: flex;
+    flex-direction: column;
+  }
+  .container {
+    display: flex;
+    justify-content: center;
+    margin-left: 100px;
+  }
+  .container-22 {
+    display: flex;
+    flex-direction: column;
+    width: 100px;
+    margin-left: 100px;
+  }
+  #footer {
+    margin-top: 600px;
+    text-align: center;
+  }
+  .text {
+    width: 200px;
+    justify-content: center;
+    align-items: center;
+    margin-left: 100px;
+  }
+}
